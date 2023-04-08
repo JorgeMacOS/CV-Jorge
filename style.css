@@ -1,0 +1,29 @@
+#Principal{
+    border: solid 1px rgb(111, 0, 255);
+    padding: 5px;
+    margin: 0;
+    width: 95%;
+
+
+}
+fieldset{
+    margin-bottom: 10px;
+}
+
+legend {
+    border: solid 1px; color: black;
+    padding: 5px;
+    font-weight: bold;
+    background-color: rgb(250, 255, 180);
+    border-radius: 50%;
+
+}
+.name{
+    border: solid 2px;
+    margin: 10px;
+}
+
+body {
+    background: url(gato_cute.jpg)
+    
+}
